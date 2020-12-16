@@ -11,6 +11,8 @@
 		8401B98D2587628D00EA2D1D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8401B98C2587628D00EA2D1D /* ContentView.swift */; };
 		8401B98F2587628E00EA2D1D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8401B98E2587628E00EA2D1D /* Assets.xcassets */; };
 		8401B9922587628E00EA2D1D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8401B9912587628E00EA2D1D /* Preview Assets.xcassets */; };
+		8401B99B2587663A00EA2D1D /* ColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8401B99A2587663A00EA2D1D /* ColorView.swift */; };
+		8401B9A32588895700EA2D1D /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8401B9A22588895700EA2D1D /* SliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		8401B98E2587628E00EA2D1D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8401B9912587628E00EA2D1D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8401B9932587628E00EA2D1D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8401B99A2587663A00EA2D1D /* ColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorView.swift; sourceTree = "<group>"; };
+		8401B9A22588895700EA2D1D /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				8401B98A2587628D00EA2D1D /* kukhalashvili_la_HW3_2App.swift */,
 				8401B98C2587628D00EA2D1D /* ContentView.swift */,
+				8401B99A2587663A00EA2D1D /* ColorView.swift */,
+				8401B9A22588895700EA2D1D /* SliderView.swift */,
 				8401B98E2587628E00EA2D1D /* Assets.xcassets */,
 				8401B9932587628E00EA2D1D /* Info.plist */,
 				8401B9902587628E00EA2D1D /* Preview Content */,
@@ -138,6 +144,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8401B99B2587663A00EA2D1D /* ColorView.swift in Sources */,
+				8401B9A32588895700EA2D1D /* SliderView.swift in Sources */,
 				8401B98D2587628D00EA2D1D /* ContentView.swift in Sources */,
 				8401B98B2587628D00EA2D1D /* kukhalashvili_la_HW3_2App.swift in Sources */,
 			);
